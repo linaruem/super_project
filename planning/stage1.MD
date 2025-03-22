@@ -12,3 +12,7 @@ We need to plan stage 1 of this project. Stage 1 involves the following activiti
 1. Install the gas oven
 1. Install the fridge
 1. Install automatic cat feeder
+
+This is a new line added to demonstrate pulling - with some more changes
+
+This is another line added to demonstrate pulling across branches
